@@ -1,0 +1,16 @@
+{
+  "interval": 3.0,
+  "retention_days": 14,
+  "min_samples": 20,
+  "sustained_samples": 3,
+  "memory_ratio": 2.5,
+  "memory_delta_mb": 100.0,
+  "cpu_delta": 40.0,
+  "connection_burst": 5,
+  "baseline_window": 120,
+  "abuseipdb_enabled": false,
+  "virustotal_enabled": false,
+  "reputation_ttl_hours": 24,
+  "rule_weights": {}
+}
+
