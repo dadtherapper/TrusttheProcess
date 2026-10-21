@@ -1,4 +1,4 @@
-# Trust the Process
+# Trust the Process - examining your process list
 
 A read-only Windows process and network monitor with local history, behavioral baselines, and explainable findings.
 
